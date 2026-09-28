@@ -1,8 +1,6 @@
 # Text-To-Speech-Web-Application
 A simple and interactive Text-to-Speech (TTS) web application that converts written text into spoken words using the browser's built-in Web Speech API.
 
-## About the Project
-
 This project allows users to type or paste text into a text area and have it read aloud by the browser.
 
 Users can also select from the available voices provided by their browser or operating system before starting the speech.
@@ -10,10 +8,10 @@ Users can also select from the available voices provided by their browser or ope
 I built this project as part of my journey to strengthen my JavaScript fundamentals and gain more experience building interactive web applications.
 
 ## Preview
+![App preview](images/texttospeech.png)
 
-
-## Live - Demo
-[View Live](https://neyethedevanalyst.github.io/Text-To-Speech-Web-Application/)
+## Live Demo
+[View the Live Text-To-Speech App](https://neyethedevanalyst.github.io/Text-To-Speech-Web-Application/)
 
 ### Features
 - Enter or paste text into the text area
